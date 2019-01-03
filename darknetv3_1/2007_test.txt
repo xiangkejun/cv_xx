@@ -1,0 +1,13 @@
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000011.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000023.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000006.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000008.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000010.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000005.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000018.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000002.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000020.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000004.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000022.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000012.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000001.jpg

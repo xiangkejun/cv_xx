@@ -1,0 +1,6 @@
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000014.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000017.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000013.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000015.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000003.jpg
+/home/xx/cv_xx/darknetv3_1/VOCdevkit/VOC2007/JPEGImages/000019.jpg
