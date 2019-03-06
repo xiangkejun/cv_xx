@@ -1,0 +1,8 @@
+
+
+rosrun video_transport_tutorial video_publisher
+
+
+rosrun rqt_image_view rqt_image_view
+
+rosrun video_transport_tutorial video_save
