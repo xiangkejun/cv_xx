@@ -1,4 +1,6 @@
 
+// 根据RGB值分割出感兴趣区域，并用矩形框出，且求出中心坐标点
+
 #include <opencv2/core.hpp>
 #include <opencv2/videoio.hpp>
 #include <opencv2/highgui.hpp>
